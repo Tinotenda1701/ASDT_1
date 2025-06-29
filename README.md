@@ -1,2 +1,2 @@
 # ASDT_1
-School work
+My Git exercise 2
